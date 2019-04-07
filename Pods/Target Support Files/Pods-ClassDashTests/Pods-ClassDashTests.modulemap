@@ -1,0 +1,6 @@
+framework module Pods_ClassDashTests {
+  umbrella header "Pods-ClassDashTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
